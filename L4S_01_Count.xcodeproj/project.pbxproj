@@ -14,6 +14,7 @@
 		0B1ED2882202EF910033FFF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B1ED2862202EF910033FFF3 /* LaunchScreen.storyboard */; };
 		0B1ED2932202EF910033FFF3 /* L4S_01_CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1ED2922202EF910033FFF3 /* L4S_01_CountTests.swift */; };
 		0B1ED29E2202EF910033FFF3 /* L4S_01_CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B1ED29D2202EF910033FFF3 /* L4S_01_CountUITests.swift */; };
+		0B1ED2AC2202F0C30033FFF3 /* lifeistech-logo_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B1ED2AB2202F0C30033FFF3 /* lifeistech-logo_black.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0B1ED2992202EF910033FFF3 /* L4S_01_CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = L4S_01_CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B1ED29D2202EF910033FFF3 /* L4S_01_CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = L4S_01_CountUITests.swift; sourceTree = "<group>"; };
 		0B1ED29F2202EF910033FFF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0B1ED2AB2202F0C30033FFF3 /* lifeistech-logo_black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lifeistech-logo_black.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		0B1ED27C2202EF910033FFF3 /* L4S_01_Count */ = {
 			isa = PBXGroup;
 			children = (
+				0B1ED2AB2202F0C30033FFF3 /* lifeistech-logo_black.png */,
 				0B1ED27D2202EF910033FFF3 /* AppDelegate.swift */,
 				0B1ED27F2202EF910033FFF3 /* ViewController.swift */,
 				0B1ED2812202EF910033FFF3 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				0B1ED2882202EF910033FFF3 /* LaunchScreen.storyboard in Resources */,
 				0B1ED2852202EF910033FFF3 /* Assets.xcassets in Resources */,
+				0B1ED2AC2202F0C30033FFF3 /* lifeistech-logo_black.png in Resources */,
 				0B1ED2832202EF910033FFF3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
